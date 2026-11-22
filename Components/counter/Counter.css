@@ -1,0 +1,38 @@
+
+.CounterButton{
+        
+        font-Size:16px;
+        background-Color:#d70c7f;
+        width:100px;
+        margin:10px;
+        color:white;
+        padding:5px;
+        border-Radius:30px;
+        border-color: black;
+        border-width:4px;
+    
+    }
+    .resetButton{
+        
+        font-Size:16px;
+        background-Color:#471297;
+        width:100px;
+        margin:10px;
+        color:white;
+        padding:5px;
+        border-Radius:30px;
+        border-color: black;
+        border-width:4px;
+    
+    }
+
+
+    .Count {
+        font-size:30px;
+        padding: 20px;
+
+    }
+    .totalCount{
+        color: #2b0370;
+        font-size: 130px;
+    }
