@@ -71,8 +71,7 @@ git clone YOUR_GITHUB_REPOSITORY_URL
 Open the frontend folder in the terminal.
 
 ```bash
-npm install
-npm run dev
+npm start
 ```
 
 Open the local URL displayed in your terminal.
